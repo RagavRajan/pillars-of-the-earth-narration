@@ -30,11 +30,11 @@ This is a *companion*, not a substitute. It does not reproduce the novel.
 | Day | Part | Spine | Status |
 |---|---|---|---|
 | **[1](Day%201%20-%20The%20Hanging%20and%20the%20Snow.md)** | I — Tom Builder | Tom loses everything, Agnes dies, Ellen takes the baby, the cathedral burns | Ready |
-| **2** | II — Fall of the House of Shiring | Aliena's father falls, William sacks the castle, her vow, ground is broken | Drafting |
-| **3** | III — Building | Jack's genius, Aliena's wool empire, the wool fair attack, Tom's death | Drafting |
-| **4** | IV — Love and Vengeance | Jack and Aliena, the forced marriage, Jack walks toward Spain | Drafting |
-| **5** | V — The Mystery | Gothic architecture, the truth about Jack's father, reunion | Drafting |
-| **6** | VI — Reckoning | Becket's murder, William hanged, Waleran broken, cathedral consecrated | Drafting |
+| **[2](Day%202%20-%20The%20Fall%20of%20the%20House%20of%20Shiring.md)** | II — Fall of the House of Shiring | Aliena's father falls, William sacks the castle, her vow, ground is broken | Ready |
+| **[3](Day%203%20-%20Building.md)** | III — Building | Jack's genius, Aliena's wool empire, the wool fair attack, Tom's death | Ready |
+| **[4](Day%204%20-%20Love%20and%20Vengeance.md)** | IV — Love and Vengeance | Jack and Aliena, the forced marriage, Jack walks toward Spain | Ready |
+| **[5](Day%205%20-%20The%20Mystery.md)** | V — The Mystery | Gothic architecture, the truth about Jack's father, reunion | Ready |
+| **[6](Day%206%20-%20Reckoning.md)** | VI — Reckoning | Becket's murder, William hanged, Waleran broken, cathedral consecrated | Ready |
 
 ---
 

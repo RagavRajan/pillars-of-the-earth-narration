@@ -5,6 +5,11 @@ project:
     - "index.qmd"
     - "Context.md"
     - "Day 1 - The Hanging and the Snow.md"
+    - "Day 2 - The Fall of the House of Shiring.md"
+    - "Day 3 - Building.md"
+    - "Day 4 - Love and Vengeance.md"
+    - "Day 5 - The Mystery.md"
+    - "Day 6 - Reckoning.md"
     - "!pillars of the earth.md"
     - "!pillars of the earth.pdf"
     - "!README.md"
@@ -23,6 +28,16 @@ website:
         menu:
           - href: "Day 1 - The Hanging and the Snow.md"
             text: "Day 1 — The Hanging and the Snow"
+          - href: "Day 2 - The Fall of the House of Shiring.md"
+            text: "Day 2 — The Fall of the House of Shiring"
+          - href: "Day 3 - Building.md"
+            text: "Day 3 — Building"
+          - href: "Day 4 - Love and Vengeance.md"
+            text: "Day 4 — Love and Vengeance"
+          - href: "Day 5 - The Mystery.md"
+            text: "Day 5 — The Mystery"
+          - href: "Day 6 - Reckoning.md"
+            text: "Day 6 — Reckoning"
   page-footer:
     center: "A storytelling companion. Not affiliated with the author or publisher. Source novel © Ken Follett, 1989."
 
