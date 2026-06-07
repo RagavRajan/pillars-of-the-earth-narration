@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "index.qmd"
+    - "Context.md"
+    - "Day 1 - The Hanging and the Snow.md"
+    - "!pillars of the earth.md"
+    - "!pillars of the earth.pdf"
+    - "!README.md"
+
+website:
+  title: "Pillars of the Earth — A Narrator's Companion"
+  description: "A six-evening storytelling guide to Ken Follett's novel, with historical context."
+  navbar:
+    background: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Context.md
+        text: Context
+      - text: "Narration"
+        menu:
+          - href: "Day 1 - The Hanging and the Snow.md"
+            text: "Day 1 — The Hanging and the Snow"
+  page-footer:
+    center: "A storytelling companion. Not affiliated with the author or publisher. Source novel © Ken Follett, 1989."
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    toc-location: right
+    grid:
+      body-width: 760px
+    fontsize: 1.05em
+    linestretch: 1.65
+    smooth-scroll: true
+    code-copy: false

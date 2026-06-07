@@ -1,0 +1,17 @@
+# Copyrighted source material — do NOT commit or publish.
+# This is the raw text of Ken Follett's novel. Keep on your laptop only.
+pillars of the earth.md
+pillars of the earth.pdf
+
+# Quarto build output
+/_site/
+/.quarto/
+*.html
+!index.html
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
